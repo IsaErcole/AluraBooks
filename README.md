@@ -2,37 +2,37 @@
 
 # 📖 AluraBooks
 
-Projeto desenvolvido durante o curso de **Responsividade** da [Alura](https://www.alura.com.br).  
-O objetivo é criar uma página de livros com layout responsivo, adaptando-se a diferentes tamanhos de tela e dispositivos.
+This project was developed during the [Alura](https://www.alura.com.br) **Responsiveness** course.  
+The goal is to create a responsive book page layout that adapts seamlessly to different screen sizes and devices.
 
-🔗 [Demo do projeto](https://isaercole.github.io/AluraBooks/)
-
----
-
-## 🚀 Tecnologias utilizadas
-- **HTML5** para estruturação
-- **CSS3** para estilização
-- **Reset CSS** para padronização entre navegadores
+🔗 [Live Demo](https://isaercole.github.io/AluraBooks/)
 
 ---
 
-## 📂 Estrutura do projeto
-- `index.html` → Página principal
-- `reset.css` → Reset de estilos
-- `styles.css` → Estilos customizados
-- `IMG/` → Imagens utilizadas no projeto
+## 🚀 Technologies
+- **HTML5** → Structure and markup  
+- **CSS3** → Styling and layout  
+- **Reset CSS** → Cross-browser consistency  
 
 ---
 
-## 🧩 Funcionalidades
-- Layout responsivo utilizando **media queries**
-- Estrutura semântica em HTML
-- Design adaptado para **desktop, tablet e mobile**
-- Exemplo prático de boas práticas em CSS
+## 📂 Project Structure
+- `index.html` → Main page  
+- `reset.css` → Style reset  
+- `styles.css` → Custom styles  
+- `IMG/` → Project images  
 
 ---
 
-## ▶️ Como executar
-1. Clone este repositório:
+## 🧩 Features
+- Responsive layout using **media queries**  
+- Semantic HTML structure  
+- Design adapted for **desktop, tablet, and mobile**  
+- Practical example of CSS best practices  
+
+---
+
+## ▶️ Getting Started
+1. Clone this repository:
    ```bash
    git clone https://github.com/IsaErcole/AluraBooks.git
